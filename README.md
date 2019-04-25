@@ -2,7 +2,7 @@
 Este repositório contém a biblioteca LoBRa, que foi baseada nos esforços de tftelkamp (LMIC) e que possibilita o uso otimizado para o cenário brasileiro de IoT em 915 MHz.
 O uso de LoBRa permite integração com módulos SX1276/SX1278 e foi validada com setups Arduino/Dragino - Raspberry Pi/Dragino e também com setups entre módulos Heltec ESP32 LoRa.
 LoBRa é uma variação de código definido em LMIC que por sua vez contempla padrões utilizáveis para diversas frequências operacionais, mas que não tem necessidade de permanecer no caso brasileiro e, por isso, foi aperfeiçoada para ser utilizada somente nas frequências úteis que são aceitas pelas normas da Agência Nacional de Telecomunicações (Anatel).
-Esta biblioteca foi testada e aprovada utilizando a IDE do Arduino v1.8.7.
+Esta biblioteca foi testada e aprovada utilizando a IDE do Arduino v1.8.7 e um sensor de temperatura LM35.
 
 ***
 
