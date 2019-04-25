@@ -28,9 +28,13 @@ DEPENDÊNCIAS
 CONFIGURAÇÃO
 
 Padrão: SF7, 915 MHz, 125 kHz de banda;
+
 Para o setup Dragino, main.cp deve ser editado para configurar novos valores de SF;
+
 Inserir localização, e-mail e descrição regional para o setup;
+
 Deve-se mudar a Placa na IDE do Arduino quando alternado os setups Draginos/ESP32;
+
 As entradas do gateway no setup ESP32 é configurado somente via web pelo IP do módulo;
 
 
